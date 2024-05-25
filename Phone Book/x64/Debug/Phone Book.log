@@ -1,0 +1,20 @@
+﻿  Phone Book.cpp
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(45,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(46,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(157,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(157,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(160,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(160,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(219,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(219,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(221,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(221,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(299,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(299,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(300,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(300,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(404,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(404,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(421,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\laptop backup\DSA\DSA Assignment 1\Phone Book\Phone Book\Phone Book.cpp(421,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Phone Book.vcxproj -> D:\laptop backup\DSA\DSA Assignment 1\Phone Book\x64\Debug\Phone Book.exe
